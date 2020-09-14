@@ -4,6 +4,6 @@ The website contains my CV, a list of my programming experience. The website is 
 
 ## Website Files:
 
-The website is composed of three html pages (Index, CV, and Programming). html files are located in the top level of the directory; JavaScript files are stored in the /scripts directory; images, icons, and PDFs in /images; and CSS / SCSS files in /styles.
+The website is composed of three html pages (Index, CV, and Programming). HTML files are located in the top level of the directory.. JavaScript files are stored in the /scripts directory; images, icons, and CSS / SCSS files in /styles.
 
 ![](https://user-images.githubusercontent.com/62458624/93011442-592ede80-f564-11ea-8f1b-f2ca1127def6.png)
