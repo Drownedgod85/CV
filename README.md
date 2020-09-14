@@ -1,6 +1,6 @@
 # Rafael M. Mateo Lee - Personal CV website
 
-The website contains my CV, a list of my programming experience. The website is written in HTML with CSS / CSS styling, and some JavaScript is used to generate a pop-up when a button is activated (Programming page).
+The website contains my CV, a list of my programming experience. The website is written in HTML with CSS / SCSS styling, and some JavaScript is used to generate a pop-up when a button is activated (Programming page).
 
 ## Website Files:
 
